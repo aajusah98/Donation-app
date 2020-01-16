@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "535491835730",
+    "firebase_url": "https://donation-e8467.firebaseio.com",
+    "project_id": "donation-e8467",
+    "storage_bucket": "donation-e8467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535491835730:android:55576c1aa1d600de8fec8b",
+        "android_client_info": {
+          "package_name": "com.food.donate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535491835730-3heielkeqamjav9bm43k1fgh5fjgkimo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.donate",
+            "certificate_hash": "69fc5c6ffed5ba818e8d1307ce52b556eb8a0a71"
+          }
+        },
+        {
+          "client_id": "535491835730-ib6g6lbs3opbmfm550dacdk5cnuguq2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.donate",
+            "certificate_hash": "e49f090ed43d6aa94f672da0e44e45dca403e31c"
+          }
+        },
+        {
+          "client_id": "535491835730-dh3j1vodr9s41uprfka08b9a4qel4u7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.donate",
+            "certificate_hash": "715b800db898651238e0584a689e51907247e883"
+          }
+        },
+        {
+          "client_id": "535491835730-p3d0d2tbr0i74s9hq3cg3cd2tpiimluu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyiwQ7ZYaEdieJky5URzE-LyvD2n-qVPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535491835730-p3d0d2tbr0i74s9hq3cg3cd2tpiimluu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
